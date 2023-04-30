@@ -4,4 +4,4 @@
  - Este repositório contém o site criado no curso de html5, será atualizado constantemente e adicionado seus pacotes.
  
  
-- Professor [gustavo guanabara](https://github.io/gustavoguanabara)
+- Professor [Gustavo Guanabara](https://github.com/gustavoguanabara)
