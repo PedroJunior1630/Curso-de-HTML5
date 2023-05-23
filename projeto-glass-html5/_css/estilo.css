@@ -121,6 +121,26 @@ table#tabelaspec td{
     padding: 10px;
 
 }
+table#tabelaspec td.ce{
+    color: white;
+    background-color:rgb(0, 0, 0,0.5);
+    vertical-align: top;
+    font-weight: bold;
+    text-shadow: 0px 0px 2px black;
+}
+table#tabelaspec td.cd{
+    
+}
+table#tabelaspec caption{
+    font-size: 15px;
+}
+table#tabelaspec caption span{
+    display: block;
+    float: right;
+    color: black;
+    font-size: 9px;
+    margin-top: 10px;
+}
 aside#lateral{
     display: block;
     width: 350px;
